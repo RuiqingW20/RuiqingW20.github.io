@@ -21,7 +21,7 @@ repository               : "RuiqingW20/RuiqingW20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "Profile.jpeg"
   name             : "Ruiqing Wang"
   pronouns         :  "she/her"  
   bio              : "PhD Candidate in Chemistry at Tulane University| master of Computer Science at Georgia Tech"

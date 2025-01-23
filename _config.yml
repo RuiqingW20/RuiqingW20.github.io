@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruiqing Wang"
   pronouns         :  "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Chemistry/computational chemical simulation at Tulane University| master of Computer Science at Georgia Tech"
   location         : "New Orleans"
   employer         : "Tulane University"
   uri              : # URL

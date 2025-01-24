@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruiqing Wang's fun and innovative space"
+title                    : "Ruiqing Wang"
 title_separator          : "-"
-name                     : &name "Ruiqing Wang"
+name                     : &name "Computing the Path to Protein binding"
 description              : &description "PhD Candidate in Chemistry at Tulane University| master of Computer Science at Georgia Tech"
 url                      : https://RuiqingW20.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

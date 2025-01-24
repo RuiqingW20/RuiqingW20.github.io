@@ -2,19 +2,12 @@
 title: "Organic lab teaching"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Organic_lab_teaching
 venue: "Tulane University, Chemistry"
-date: 2024-08-21
+date: 2022 - 2025
 location: "New Orleans, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+*Acted as a bridge between students and instructors, ensuring effective communication and clarity in coursework.
+*Guided undergraduate students through laboratory experiments, delivering precise instructions and fostering hands-on learning.
+*Streamlined laboratory operations by organizing experiments for large student cohorts and maintaining high safety standards in collaboration with faculty.

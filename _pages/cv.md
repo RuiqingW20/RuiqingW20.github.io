@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Peptide bidning study, Tulane University, 2019-2025
+* M.S. in Computer Science, Georgia Institute of Technology, 2023-2025
+* B.S. in Applied Chemistry, South China University of Technology, 2015-2019
 
 Work experience
 ======
@@ -22,15 +22,16 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2024 - Oct 2024: research intern
+  * Lead federal grant writing (NIH, NSF, DoE, USDA), secured $ 20,000 Tamer Fund, and facilitated company incubator opportunity at Science Inc.
+  * Designed and visualized chemical recycling routes using AutoCAD
+  * Analyzed data from 100+ experiments to optimize the recycling process and summarized experiemnts design
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - Fall 2021: Research Assistant
+  * Tulane University
+  * Duties included: work on peptide characterization/binding; maromoelcule synthesis testing and binding; molecular dynamics simulation of protein system
+  * Supervisor: Professor Gibb
+
   
 Skills
 ======

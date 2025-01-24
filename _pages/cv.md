@@ -35,12 +35,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Chemistry
+  * Molecular Dynamics Simulations
+  * Protein-Ligand Docking and Structure-Based Virtual Screening
+  * High-Performance Computing (HPC) and Parallel Simulations
+  * Binding Free Energy Calculations (e.g., MM-GBSA)
+    
+* Programming and Data Analysis 
+  * Pyhton, R, C++
+  * Machine Learning for Protein Aggregation Prediction
+
+* Sustainability and Innovation
+  * Process Optimization for Environmental Applications
+  * Green Technology Development for Chemical Recycling
 
 Publications
 ======
@@ -48,11 +55,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -60,6 +62,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

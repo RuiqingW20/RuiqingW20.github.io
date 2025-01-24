@@ -1,11 +1,11 @@
 ---
+layout: archive
 permalink: /
 title: "Home Page - Ruiqing Wang 王瑞卿"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 
 Ruiqing Wang is a PhD student in Chemistry at Tulane University. In 2019, she obtained her B.S. from South China University of Technology in Guangzhou. At 2023, She started her master of Computer Science at Georgia Institute of Technology, and will graduate in summer 2025. At July - October 2024, she started her research intern at Coffee elf. In 2025, she is expected to get her PhD and master degree. She is now open to work in computational chem/bioinfomatics.

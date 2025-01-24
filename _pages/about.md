@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home Page - Ruiqing Wang (王瑞卿)"
+title: "Home Page - Ruiqing Wang 王瑞卿"
 author_profile: true
 redirect_from: 
   - /about/

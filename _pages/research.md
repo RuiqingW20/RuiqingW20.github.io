@@ -13,7 +13,8 @@ Peptides and small proteins serve as models to study the interactions of salts a
 
 
 
- * Lizard Pose Estimation and Evaluation
+ ## Lizard Pose Estimation and Evaluation
+ 
  This project in on landmark detection and recognition of moving animals as Lizard. Below is the recognition video from DLC. 
 ### Video output 
 

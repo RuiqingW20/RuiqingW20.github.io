@@ -17,14 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025: Contrator Scientist III 
+  * AbbVie Inc. (via Mindlance)
+  * Duties includes: Applied statistical and computational approaches to support method development, predictive modeling of biologic stability.
 
 * July 2024 - Oct 2024: research intern
   * Lead federal grant writing (NIH, NSF, DoE, USDA), secured $ 20,000 Tamer Fund, and facilitated company incubator opportunity at Science Inc.
-  * Designed and visualized chemical recycling routes using AutoCAD
   * Analyzed data from 100+ experiments to optimize the recycling process and summarized experiemnts design
 
 * Fall 2019 - Fall 2021: Research Assistant

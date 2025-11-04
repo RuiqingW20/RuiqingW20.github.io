@@ -9,5 +9,3 @@ venue: "Journal of Physical Chemistry B"
 paperurl: "https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05238"
 citation: "Wei Yao, Kaiyu Wang, Yahya A. Ismaiel, Ruiqing Wang, Xiaoyang Cai, Mary Teeler, Bruce C. Gibb. (2021). &quot;Electrostatic Potential Field Effects on Amine Macrocyclizations within Yoctoliter Spaces: Supramolecular Electron Withdrawing/Donating Groups.&quot; <i>Journal of Physical Chemistry B</i>, <b>125</b>(32): 9333–9340."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
